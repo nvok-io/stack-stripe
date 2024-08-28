@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g id="three-light" transform="matrix(1.25723,0,0,1.25723,12.5781,2.07691)">
+        <rect x="-10.005" y="-1.652" width="174.988" height="174.988" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="-10.005" y="-1.652" width="174.988" height="174.988"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="background" transform="matrix(0.819543,0,0,0.859162,-14.4296,-7.51158)">
+                <rect x="5.399" y="6.82" width="213.518" height="203.672" style="fill:rgb(235,235,235);"/>
+            </g>
+            <g id="icon" transform="matrix(0.803525,0,0,0.795671,-8.02358,-4.18039)">
+                <path d="M63.02,200.61L19.807,25.67L193.037,75.544L63.02,200.61Z" style="fill:none;stroke:black;stroke-width:4px;"/>
+                <path d="M106.39,50.612L127.981,138.108L41.414,113.163L106.39,50.612Z" style="fill:none;stroke:black;stroke-width:4px;"/>
+                <path d="M84.91,125.03L74.186,81.565L117.194,93.911L84.91,125.03Z" style="fill:none;stroke:black;stroke-width:4px;"/>
+                <path d="M63.458,38.153L74.182,81.618L31.174,69.272L63.458,38.153Z" style="fill:none;stroke:black;stroke-width:4px;"/>
+                <path d="M149.47,62.93L160.194,106.395L117.186,94.049L149.47,62.93Z" style="fill:none;stroke:black;stroke-width:4px;"/>
+                <path d="M84.915,125.06L95.639,168.525L52.631,156.179L84.915,125.06Z" style="fill:none;stroke:black;stroke-width:4px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
