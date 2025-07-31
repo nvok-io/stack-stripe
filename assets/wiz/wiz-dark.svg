@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-45f2f08d-9dc2-4465-ac0b-bb6cd337e1a4" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="uuid-9e928c23-5f0e-4afa-b088-55f3acd9a988" x1="256" y1="0" x2="256" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d6cff"/>
+      <stop offset=".62" stop-color="#0854e1"/>
+      <stop offset="1" stop-color="#004ad4"/>
+    </linearGradient>
+    <filter id="uuid-f2a7c207-9953-4588-8817-e4ceb37facac" data-name="drop-shadow-1" x="83" y="87" width="350" height="350" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="6"/>
+      <feGaussianBlur result="uuid-63b76ea2-b9b1-4f0f-b7d8-b9663a0235b9" stdDeviation="8"/>
+      <feFlood flood-color="#000" flood-opacity=".39"/>
+      <feComposite in2="uuid-63b76ea2-b9b1-4f0f-b7d8-b9663a0235b9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="uuid-896f6941-d46a-46e1-bcbd-10757db3634c" data-name="logo">
+    <g id="uuid-99cb9241-0671-46b1-a1b0-78238299d089" data-name="wiz-logo-circle">
+      <rect id="uuid-197e01dc-5444-4020-9cbe-328f3917daa6" data-name="background" x="0" y="0" width="512" height="512" rx="256" ry="256" style="fill: url(#uuid-9e928c23-5f0e-4afa-b088-55f3acd9a988);"/>
+      <path id="uuid-2207568c-8c1f-4ab2-959c-c28ea2a7c580" data-name="star" d="M406.66,256s-77.77-9.41-110.43-42.07c-30.12-30.12-40.23-108.9-40.23-108.9,0,0-10.12,78.78-40.23,108.9-32.66,32.66-110.43,42.07-110.43,42.07,0,0,77.77,9.41,110.43,42.07,30.12,30.12,40.23,108.9,40.23,108.9,0,0,10.12-78.78,40.23-108.9,32.66-32.66,110.43-42.07,110.43-42.07Z" style="fill: #fff; filter: url(#uuid-f2a7c207-9953-4588-8817-e4ceb37facac);"/>
+    </g>
+  </g>
+</svg>
